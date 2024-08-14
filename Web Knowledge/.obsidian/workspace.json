@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "2cee076900a37b9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1aef707f6fd8f3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cb203fa8aa606fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98ee7f9d60bd40de",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d04c911b8d202ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c30c0fc78b3dc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8f239d7c6393829",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6711812483c5b90f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e753a552cf49ac6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9de1e97b9d5d741",
+    "type": "split",
+    "children": [
+      {
+        "id": "e14c985b6cce87d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfc0e485c0a5fd84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c76fc7dde3613b5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d674d5d95ad16a6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "525449e26f7e65f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6cb203fa8aa606fd",
+  "lastOpenFiles": [
+    "NPM/9 - Semantic Versioning.md",
+    "NPM/8 - Local VS Global.md",
+    "NPM/7 - Remove Packages.md",
+    "NPM/6 - Package.json.md",
+    "NPM/5 - NPM Install.md",
+    "NPM/4 - NPM Modules.md",
+    "NPM/3 - Node Versioning.md",
+    "NPM/2 - Installation.md",
+    "NPM/11 - Dependencies.md",
+    "NPM/10 - Package-Lock.json.md",
+    "NPM/1 - What is NPM.md",
+    "NPM",
+    "NPM/11 - Dependencies",
+    "NPM/8 - Local VS Global",
+    "Untitled.md",
+    "Node",
+    "HTML/Fundamentals.md",
+    "HTML/Basic Elements.md"
+  ]
+}

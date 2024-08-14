@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "524a8758819a617e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a726599be0090912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13ce8bd3fb045b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular Module Federation/Dynamic Module Federation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6231f24c12d15e3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c2132a22bebdce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93f39c5f916cb58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba7e9418da3dfa67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8cdf0b44b170189",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "885c7865115be9a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0a9df0fce3a92f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "82938690f2177399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "933dd17b7a95d340",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Angular Module Federation/Dynamic Module Federation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8a7fa8a0f8dd2c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Angular Module Federation/Dynamic Module Federation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20e965867f29d4f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "000a781aa99a6174",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Angular Module Federation/Dynamic Module Federation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d93f39c5f916cb58",
+  "lastOpenFiles": [
+    "Angular Module Federation/Implmentation.md",
+    "Angular Module Federation/Navigation.md",
+    "Angular Module Federation/Evaluation.md",
+    "Angular Module Federation/Dynamic Module Federation.md",
+    "Helm/Helm.md",
+    "Terraform/Terraform.md",
+    "Kubernetes/Kubernetes (K8s).md",
+    "Kubernetes/Keywords.md",
+    "Kubernetes/Commands.md",
+    "Datadog/Datadog.md",
+    "Datadog",
+    "Helm/Commands.md",
+    "Terraform/Commands.md",
+    "Helm",
+    "Terraform/Example Config.md",
+    "Terraform",
+    "Docker/Docker.md",
+    "Kubernetes",
+    "PipeLines/Workflows.md",
+    "Azure Pipelines/Describe Azure Pipelines.md",
+    "Azure Pipelines/Azure Pipelines.md",
+    "Docker/Commands.md",
+    "Azure Pipelines/Variables.md",
+    "Docker",
+    "Pasted image 20240704131428.png",
+    "Pasted image 20240702110516.png",
+    "Pasted image 20230404114640.png",
+    "Azure Pipelines",
+    "monolith-frontback-microservices.png",
+    "Module Federation/Tips & Tricks.md",
+    "Module Federation/Module Federation.md",
+    "Module Federation/Module Federation - ShellUI.md",
+    "Angular Module Federation/Version Mismatch.md",
+    "Angular Module Federation/General Informations.md",
+    "Micro Frontends/Micro Frontends.md",
+    "Pasted image 20230404114518.png",
+    "Pasted image 20230404114448.png",
+    "Pasted image 20230404095411.png",
+    "Module Federation",
+    "Micro Frontends",
+    "Pasted image 20230214102943.png",
+    "Pasted image 20230207161710.png",
+    "documentation.md"
+  ]
+}
