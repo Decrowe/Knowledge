@@ -11,12 +11,8 @@
             "id": "13ce8bd3fb045b22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular Module Federation/Dynamic Module Federation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular Module Federation/Dynamic Module Federation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular Module Federation/Dynamic Module Federation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Angular Module Federation/Dynamic Module Federation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,50 +146,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d93f39c5f916cb58",
+  "active": "13ce8bd3fb045b22",
   "lastOpenFiles": [
+    "Pasted image 20230207161710.png",
+    "monolith-frontback-microservices.png",
+    "Angular Module Federation/General Informations.md",
     "Angular Module Federation/Implmentation.md",
-    "Angular Module Federation/Navigation.md",
     "Angular Module Federation/Evaluation.md",
     "Angular Module Federation/Dynamic Module Federation.md",
-    "Helm/Helm.md",
+    "Azure Pipelines/Azure Pipelines.md",
+    "Azure Pipelines/Variables.md",
+    "Azure Pipelines/Describe Azure Pipelines.md",
+    "Module Federation/Tips & Tricks.md",
+    "Module Federation/Module Federation - ShellUI.md",
+    "Module Federation/Module Federation.md",
     "Terraform/Terraform.md",
+    "Terraform/Commands.md",
+    "Angular Module Federation/Navigation.md",
+    "Helm/Helm.md",
     "Kubernetes/Kubernetes (K8s).md",
     "Kubernetes/Keywords.md",
     "Kubernetes/Commands.md",
     "Datadog/Datadog.md",
     "Datadog",
     "Helm/Commands.md",
-    "Terraform/Commands.md",
     "Helm",
     "Terraform/Example Config.md",
     "Terraform",
     "Docker/Docker.md",
     "Kubernetes",
     "PipeLines/Workflows.md",
-    "Azure Pipelines/Describe Azure Pipelines.md",
-    "Azure Pipelines/Azure Pipelines.md",
     "Docker/Commands.md",
-    "Azure Pipelines/Variables.md",
     "Docker",
     "Pasted image 20240704131428.png",
     "Pasted image 20240702110516.png",
     "Pasted image 20230404114640.png",
     "Azure Pipelines",
-    "monolith-frontback-microservices.png",
-    "Module Federation/Tips & Tricks.md",
-    "Module Federation/Module Federation.md",
-    "Module Federation/Module Federation - ShellUI.md",
     "Angular Module Federation/Version Mismatch.md",
-    "Angular Module Federation/General Informations.md",
     "Micro Frontends/Micro Frontends.md",
     "Pasted image 20230404114518.png",
     "Pasted image 20230404114448.png",
     "Pasted image 20230404095411.png",
     "Module Federation",
     "Micro Frontends",
-    "Pasted image 20230214102943.png",
-    "Pasted image 20230207161710.png",
-    "documentation.md"
+    "Pasted image 20230214102943.png"
   ]
 }
