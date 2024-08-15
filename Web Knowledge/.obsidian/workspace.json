@@ -11,8 +11,12 @@
             "id": "6cb203fa8aa606fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NPM/11 - Dependencies.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPM/11 - Dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NPM/11 - Dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NPM/11 - Dependencies.md"
+              }
             }
           }
         ]
@@ -148,17 +156,17 @@
   },
   "active": "6cb203fa8aa606fd",
   "lastOpenFiles": [
-    "NPM/9 - Semantic Versioning.md",
-    "NPM/8 - Local VS Global.md",
-    "NPM/7 - Remove Packages.md",
-    "NPM/6 - Package.json.md",
-    "NPM/5 - NPM Install.md",
-    "NPM/4 - NPM Modules.md",
+    "NPM/10 - Package-Lock.json.md",
     "NPM/3 - Node Versioning.md",
     "NPM/2 - Installation.md",
-    "NPM/11 - Dependencies.md",
-    "NPM/10 - Package-Lock.json.md",
     "NPM/1 - What is NPM.md",
+    "NPM/4 - NPM Modules.md",
+    "NPM/5 - NPM Install.md",
+    "NPM/7 - Remove Packages.md",
+    "NPM/11 - Dependencies.md",
+    "NPM/8 - Local VS Global.md",
+    "NPM/9 - Semantic Versioning.md",
+    "NPM/6 - Package.json.md",
     "NPM",
     "NPM/11 - Dependencies",
     "NPM/8 - Local VS Global",
